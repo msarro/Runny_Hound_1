@@ -63,6 +63,12 @@ Append these to the URL, e.g. `index.html?autostart&god&score=600`:
 - `score=N`: start at score N (speed and day/night match that score)
 - `sim=N`: fast-forward N seconds of game time before the first frame (useful for screenshots)
 
+## License
+
+Copyright © 2026 Matty Sarro.
+
+This work is licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may share it with attribution, for non-commercial purposes only, and you may not distribute modified versions. See [LICENSE](LICENSE) for the full legal text.
+
 ---
 
 *A fan-made demo inspired by the Moravian University Greyhounds; not an official university product.*
